@@ -59,4 +59,12 @@ Revenue Recovery Strategies
 
 - Pricing Optimization: Consider pricing adjustments or promotions to attract and retain customers in the post-5G landscape, balancing revenue growth with customer acquisition and retention goals.
 - Product Innovation: Explore opportunities for new product or service offerings that leverage the capabilities of 5G technology to differentiate Wavecon Telecom's offerings and drive revenue growth.
-\
+
+### PPT :-
+
+[Wavecon's Telecom Analysis.pptx](https://github.com/Reyyadav/Wavecons-Telecom-Performance/files/15258323/Wavecon.s.Telecom.Analysis.pptx)
+
+### Video Presentation: -
+
+[Video](https://www.linkedin.com/posts/rahul-yadav-6a29401a9_codebasicsvirtualinternship-dataanalyst-datastorytelling-activity-7189176534778200065-uHLl?utm_source=share&utm_medium=member_desktop)
+
